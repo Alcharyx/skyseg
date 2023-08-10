@@ -1,0 +1,12 @@
+# Data
+train_images/
+train_mask/
+val_images/
+val_mask/
+landscape_test_vid.mp4
+my_checkpoint.pt
+
+# Byte-compiled
+__pycache__/
+
+

@@ -1,0 +1,13 @@
+torch
+torchvision
+onnxruntime
+albumentations
+tqdm
+numpy
+opencv-python
+collections-deque
+pathlib
+typing
+time
+threading
+warnings
